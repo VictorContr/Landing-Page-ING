@@ -2,6 +2,9 @@
 
 Este proyecto es una landing page desarrollada como parte de la materia Ingeniería del Software. Incluye páginas de inicio, login y registro, utilizando Tailwind CSS para los estilos y una estructura modular para facilitar el mantenimiento.
 
+## Imagen del proyecto
+![Imagen del proyecto](img/LANDING.png)
+
 ## Estructura del proyecto
 
 ```
@@ -11,6 +14,7 @@ LANDING/
 │   └── tailwind.css
 ├── img/
 │   └── BALDOX LOGO.jpg
+│   └── LANDING.png
 ├── js/
 │   ├── app.js
 │   └── login.js
